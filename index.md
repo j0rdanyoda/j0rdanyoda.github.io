@@ -1,4 +1,4 @@
-#Hello World
+# Hello World
 
 This is my homepage! My name is Jordan Alfonzo Simon and I am a student at Cal State Fullerton and my major is Computer Science.
 
